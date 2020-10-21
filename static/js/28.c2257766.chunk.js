@@ -1,0 +1,2 @@
+(this.webpackJsonpdemo2=this.webpackJsonpdemo2||[]).push([[28],{3054:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n),s=a(9),c=a(272),l=a(81);t.default=function(){return r.a.createElement(n.Fragment,null,r.a.createElement("div",{className:"appointment-right d-flex flex-column p-2"},r.a.createElement(s.a,{left:"Address",right:r.a.createElement(l.a,{isTwoRow:!0,name:"address",component:c.a})})))}}}]);
+//# sourceMappingURL=28.c2257766.chunk.js.map
